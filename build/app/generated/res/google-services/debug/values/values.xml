@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">628795061976</string>
-    <string name="google_api_key" translatable="false">AIzaSyCv6UEKw5ueEKj9j-SCaoVAD1rfJAw78_o</string>
-    <string name="google_app_id" translatable="false">1:628795061976:android:087fdf5ce2c69583e909ad</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCv6UEKw5ueEKj9j-SCaoVAD1rfJAw78_o</string>
-    <string name="google_storage_bucket" translatable="false">bootcamp7-c67f5.appspot.com</string>
-    <string name="project_id" translatable="false">bootcamp7-c67f5</string>
-</resources>
