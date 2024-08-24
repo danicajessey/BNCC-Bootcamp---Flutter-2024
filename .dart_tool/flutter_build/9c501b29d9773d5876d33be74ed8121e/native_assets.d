@@ -1,0 +1,1 @@
+ C:\\Users\\Chelsea\ Ng\\bootcamp7\\.dart_tool\\flutter_build\\9c501b29d9773d5876d33be74ed8121e\\native_assets.yaml: 
